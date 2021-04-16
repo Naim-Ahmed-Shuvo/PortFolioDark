@@ -2,9 +2,9 @@
 
 > ### Tech Stack
 * HTML
-* Materialize
-* Js
-* Firebase (Firesotre)
+* Css
+* Boostrap
+* Jquery
 
 
 
